@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Shopalytics: A Multi-Tenant Shopify Insights Dashboard
+# Shoppifying: A Multi-Tenant Shopify Insights Dashboard
 
 Shopalytics is a full-stack, multi-tenant Shopify data ingestion and insights service, built as a submission for the Xeno Forward Deployed Engineer (FDE) Internship assignment. This project demonstrates a complete, production-ready workflow for onboarding multiple Shopify stores, syncing their core business data, and visualizing key performance indicators in a secure, professional web application.
 
