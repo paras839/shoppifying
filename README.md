@@ -3,7 +3,7 @@
 
 Shopifying is a full-stack, multi-tenant Shopify data ingestion and insights service, built as a submission for the Xeno Forward Deployed Engineer (FDE) Internship assignment. This project demonstrates a complete, production-ready workflow for onboarding multiple Shopify stores, syncing their core business data, and visualizing key performance indicators in a secure, professional web application.
 
-**Submission Date:** September 12, 2025
+**Submission Date:** September 14, 2025
 
 ---
 
